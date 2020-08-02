@@ -1,0 +1,1 @@
+for i in *.zip;do echo $i;zip -d $i ./${i%.*}.SAFE/measurement/*vh*; done;

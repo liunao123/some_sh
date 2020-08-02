@@ -1,0 +1,1 @@
+stackSentinel.py -s /media/l/000030F50000BE48/S1_SLC/NO_19_LandSlide/descend/201911-202004 -d /media/l/000030F50000BE48/S1_SLC/NO_19_LandSlide/DEM/demLat_N30_N32_Lon_E098_E100.dem.wgs84 -b '30.55 30.6 98.9 98.95' -o /media/l/000030F50000BE48/S1_SLC/NO_19_LandSlide/POD -a /media/l/00029023000E261A/A_Sentinel1/AUX_file -W slc -n 3 -C geometry -m 20200121 -z 1 -r 5

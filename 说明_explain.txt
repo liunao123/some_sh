@@ -1,0 +1,18 @@
+ 1-generate_stack.sh
+ cmd of build TOPS SLC stack of isce
+ 
+ 2-Get_kmz_from_zip.sh
+ Get kml and png file of S1A zip file
+ run it on dir where the S1A zip is.
+ 
+ 3-Delete_sth_in_zip.sh
+ this cmd delete *vh* file in S1A zip measurement folder;
+ run it on dir where the S1A zip is.
+ 
+ 4-batch_zip_sth.sh
+  batch zip/unzip sth with file suffix,
+  you should change it from your need
+
+ 5-merge 30m dem with dem.py for isce,
+ lots of DEM is in dir :/media/l/00029023000E261A/30_DEM
+ this sh file is in this dir too;
